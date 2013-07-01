@@ -1,4 +1,4 @@
-My-Massive-Pony--Adventure--MMP-ADV-
-====================================
+My-Massive-Pony-Adventure
+===================================
 
 Text Adventure game for MMP
